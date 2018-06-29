@@ -351,6 +351,20 @@ name, likeness, and/or voice. You may opt out of being photographed and/or video
 informing Event staff upon check-in at the Event that you do not consent to be photographed or
 videotaped, or by approaching the photographers or videographers directly.
 
+#### 追加の条件：
+台風、戦争、火災、暴動、地震、テロ、内乱、スポンサーコントロール外の政局の行動によりスポンサーがこの参加拒否の規定を遵守しなかった（適用されるコードと規制の遵守を除く）、または、その他の「不可抗力」な出来事は、この参加契約の違反とみなされません。
+スポンサーは、イベントに関連して資料やソフトウェアをダウンロードすることに関連して、またはその結果としてあなたまたは他の人物のコンピュータが傷ついたり破損したりした場合、一切責任を負いません。
+スポンサーは、電気通信、ネットワーク、電子、技術、またはあらゆる種類のコンピューターの故障に責任を負いません。
+* 情報の不正確な転記について。
+* 宣伝用資料またはマーケティング資料またはこの参加契約の誤り。
+* 人為的または電子的な誤り。
+* 盗作、遅延、紛失、遅れ、破損、差し戻されたもののエントリー。
+スポンサーは、イベントやその要素（この参加契約を含むがこれに限定されない）を、何らかの理由で、かつ何らかの理由で、予告なしにキャンセル、変更、または中止する権利を有します。（この参加契約で取り上げられていない予期せぬ事態が発生した場合を含み、これに限定されない）
+イベントが取り消し、変更、または中止の場合、スポンサーは、イベントのキャンセル、修正、または中止になる前に受領された資格のある疑いのないすべてのエントリーの中から任意の抽選で勝者を選ぶ権利を有します。
+スポンサーは、参加者または潜在的な参加者がこの参加契約を無視する場合、参加者または潜在的な参加者がイベントに参加することを禁止することができます。
+* 他の参加者、スポンサー、パートナー、スポンサーまたはパートナーの代理人または代理人を迷惑にし、虐待し、脅迫し、または嫌がらせを意図した行為。
+* その他破壊的なやり方で行動すること(スポンサーが独自の裁量により決定する)
+
 > ADDITIONAL TERMS:  
 The failure of The Sponsor to comply with any provision of this Participation Agreement due to
 an act of God, hurricane, war, fire, riot, earthquake, terrorism, act of public enemies, actions of
