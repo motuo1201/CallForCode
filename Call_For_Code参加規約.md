@@ -212,16 +212,16 @@ GRAND PRIZE: $200,000.00 USD (Distributed by David Clark Cause)
 > 2nd RUNNER UP PRIZE: $25,000.00 (Distributed by David Clark Cause)
 > * Plus travel to the Call for Code Global Prize Event in October
 
-↓↓未訳↓↓
+#### 受賞条件
+すべての賞の詳細は、スポンサーが独自の裁量で決定します。スポンサーは、同等以上の価値を持つ類似の賞（または賞品）で代用する権利を持ちます。賞品の受領および/または使用に関連するすべての税金、その他の費用、費用、または手数料は、優勝者単独の責任となります。賞は優勝者によって譲渡または交換することはできません。もし、スポンサーからの通知から合理的な時間以内に賞が請求されなかった場合、スポンサーの独自の裁量により、その賞は失効し、時間が許すのであれば、スポンサーの裁量により残った資格のあるエントリーから、他の優勝者が選ばれます。参加者はこのコンテストのゴールが、コミュニティによって自由に採択できる技術を促進し、最も必要のある地域に展開され、成果物が「Apache License, Version 2.0」( `https://www.apache.org/licenses/LICENSE-2.0`で利用可能です)に基づかなければならないことを理解して下さい。
+参加者は「Venture Capital Program Affiliate」によって定義された「“Official Call for Code VC"」と、優勝チームに対して評価期間(イベント終了後30日間)の間にコンセプトの使用と商用化を希望するベンチャーキャピタリスト(以下、VC)がその旨を通知する事と、参加者とVCがお互いに同意可能な事項に対して良い信頼関係の下での交渉を行う事に同意します。
+VCが審査期間中に提示された提出物を明白に拒否した場合、または審査期間の終了時に参入を希望したことを参加者に通知しなかった場合、または当事者が審査期間中に誠実な関係の下で交渉が締結できなかった場合、それぞれの関係者は他の関係者との交渉権を有する事になります。これらの合意事項は、本契約の知的財産の項で議論される権利の対象となります。各当事者は、審査期間中に第三者との契約条件を交渉しないことに同意します。
+他の組織は、このイベントの一環として構築されたコンセプトや製品について、優先交渉権を要求することはできません。
+
 
 > PRIZE CONDITIONS:  
-All Prize details will be determined by The Sponsor in its sole discretion. The Sponsor reserves
-the right to substitute a similar prize (or prize element) of comparable or greater value. All taxes
-and other expenses, costs, or fees associated with the acceptance and/or use of any Prize are the
-sole responsibility of winners. Prizes cannot be transferred or substituted by winner. If a Prize is
-unclaimed within a reasonable time after notification from The Sponsor, as determined by The
-Sponsor in its sole discretion, it will be forfeited, and time permitting, an alternate winner may be
-selected from the remaining eligible Entries at The Sponsor’s sole discretion.
+All Prize details will be determined by The Sponsor in its sole discretion. The Sponsor reserves the right to substitute a similar prize (or prize element) of comparable or greater value. All taxes and other expenses, costs, or fees associated with the acceptance and/or use of any Prize are the sole responsibility of winners. Prizes cannot be transferred or substituted by winner. 
+If a Prize is　unclaimed within a reasonable time after notification from The Sponsor, as determined by The　Sponsor in its sole discretion, it will be forfeited, and time permitting, an alternate winner may be　selected from the remaining eligible Entries at The Sponsor’s sole discretion.
 Participant acknowledges that a goal of this Contest is to encourage the development of
 contributions which may be freely adopted by the community and deployed to the areas of greatest
 need, and that your Submission must be licensed under the Apache License, Version 2.0, which
@@ -239,6 +239,30 @@ with other parties. Any such agreement will be subject to the rights discussed i
 Property section of this Agreement. The respective parties agree not to negotiate terms of an
 agreement with any third party during the Review Period. No other organizing party may request
 First Right of Refusal for any concept or product built as part of this Event.
+
+#### 提出物について
+提出物は下記を満たしている必要があります。
+
+a. この契約およびイベントの冒頭に記載されている規則に従って、利用規約を順守してください
+
+b. スポンサーまたはパートナーAPIを含む、アプリケーションで使用される組み込みソフトウェアまたはサービスの利用規約に違反していないこと。これらのAPIの使用を選択した場合は、この契約とは別に規約を承諾して下さい。
+
+c. 悪質なコードやバックドアを含んでいないこと
+
+d. 品性の無い描画、下品、猥褻、明らかに性的な表現、侮辱的、差別的、攻撃的、違法または不適切な言葉、活動などを含むコンテンツが含まれない事（すべてスポンサーが単独の裁量で決定）
+
+e.スポンサー、イベント、または他の人物または団体を否定する、または否定的に言及するコンテンツを含む、描写が無い事
+
+f. 違法な物や第三者の権利を侵害するものでない事(プライバシー、人格、知的財産権を含む)
+
+g.全てのコードが「Call for Code」の為に開発されたものであること、即ちこれは、リポジトリに含まれるメインとなるソースコードが、明らかにこのコンテストの為に開発されたことを意味します。そして、
+既存のすべての依存ライブラリがすべての参加者に同じように利用可能であることを示します。
+
+h. 全ての成果物はIBM Cloud上で展開可能でなければなりません。(パブリック、プライベート、または双方のモデルを使用して)そして、受賞の資格として5つのIBM製のサービスを使って下さい。
+
+i. 「Call for Code」の開始前に、開発者はワイヤーフレーム、デザイン、ユーザーフローを作成することができます。公正を期すために、全てのコードは「Call for Code」チャレンジ機関である6月18日から8月31日までの間に書かれなければなりません。
+
+j. 任意のプログラミング言語またはオープンソースライブラリを使用できます
 
 > YOUR SUBMISSION:  
 > Your Submission must:  
@@ -265,6 +289,9 @@ i. Before the start of the "Call for Code", developers can create wireframes, de
 user flows. To keep things fair, all code must be written during the duration of the "Call
 for Code" Challenge, from June 18th to August 31st.  
 j. You may use any coding languages or open-source libraries.
+
+
+↓↓未訳↓↓
 
 > DISQUALIFICATIONS:  
 Your team’s Submission may be disqualified if the Sponsor has reason to believe, in the Sponsor’s
