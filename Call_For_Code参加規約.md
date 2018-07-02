@@ -343,6 +343,12 @@ not use sexualized images, activities, or other material. Sponsor representative
 volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a
 sexualized environment.
 
+#### 録画と写真撮影
+
+IBMの"Call for Code"イベントに参加するにあたっては、あなたはスポンサーまたは、いかなる保証も受けていない請負事業者によって写真撮影または動画撮影をされることに同意して下さい。
+あなたの写真や動画はプロモーションや収益活動、その他、スポンサーが独自かつ絶対により決定した目的の為に、インターネットやその他を既存または、新たな通信媒体通じて配信、掲示、再利用、編集、展示、使用、スポンサーによる配信がされることを理解して下さい。
+この合意はあなたの名前、肖像画、声を含んでいます。あなたは、撮影したり、ビデオ撮影したりすることを禁止することができます。
+イベントのチェックイン時にイベントスタッフに写真を撮ることに同意しないことを通知するか、カメラマンやビデオカメラマンに直接指示したりすることができます。
 
 
 > VIDEO TAPING AND STILL PHOTOGRAPHY:  
@@ -393,6 +399,18 @@ Event, if such entrant or potential entrant shows a disregard for this Participa
 with an intent to annoy, abuse, threaten, or harass any other entrant, the Sponsor, the Partner, or
 the Sponsor or Partner’s agents or representatives; or behaves in any other disruptive manner (as
 determined by the Sponsor in its sole discretion.)
+
+
+### スポンサーとパートナーは、直接的、間接的、特別、必然的、またはこのイベントやイベントのルールによって生じた損賠について責任を負いません
+あなたはスポンサー、パートナー、彼らの従業員、管理者、協力会社、エージェント、審査員、広告宣伝機関に対して全ての損害(傷害、犯罪、請求、いかなる責任または損失(
+実際の法的費用と経費を含む)を及ぼさないことをここに補償し、同意します。
+(既知未知、故意・偶発、現在または次に関連している将来的なもの)
+
+(A)イベントルールのいずれかを遵守しなかった場合  
+(B)イベントルールまたは、スポンサーとパートナーに対する詐称  
+(C)スポンサーとパートナーイベントへの参加  
+(D)賞品の受け取り、使用、償却または、賞品の受け取り、使用、補償に関する不適合
+
 
 > SPONSORS AND PARTNER WILL NOT BE LIABLE TO YOU FOR ANY DIRECT,
 INDIRECT, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES IN CONNECTION
