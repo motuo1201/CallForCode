@@ -307,8 +307,6 @@ j. You may use any coding languages or open-source libraries.
 
 あなた、またはあなたのチームが、不正行為・ハッキング・悪意のあるボットの作成・またはほかの自動実行プログラム・何らかの手段での詐欺によって、このイベントに関する健全性や正当な運営を妨害したもしくは、妨害しようとした時。または、イベントの途中でイベントスタッフの誰かがあなたの健康状態が悪化した事を確認した場合、イベントへの継続参加が不可能であり何らかの医療的な対処が必要な場合も失格となります。あなたにチームメイトがいた場合は、彼らの選択によりイベントへの参加を継続することが有ります。全ての失格の決定については、最終的な物であり訴えの対象にはなりません。
 
-
-
 > DISQUALIFICATIONS:  
 Your team’s Submission may be disqualified if the Sponsor has reason to believe, in the Sponsor’s
 sole discretion, that your Submission (a) contains any element that is malicious, corrupt, damaged,
@@ -324,8 +322,13 @@ team members fail to submit a properly executed Participation Agreement or (vi) 
 spirit of the Event. If the Sponsor has reason to believe that you or your team has compromised the integrity or the legitimate operation of this Event, or has attempted to compromise the integrity or the legitimate operation of this Event, including, without limitation, by cheating, hacking,creating a malicious bot or other automated program, or by committing fraud in any way, your Ifduring the Event, any Event staff has reason to believe that your health is in danger, you may be required to discontinue your participation in the Event and asked to seek immediate medical assistance. Your teammates, if any, may continue participating in the Event if they so choose.
 All disqualification decisions are final and not subject to appeal.
 
+#### 行動規範
+「ハラスメント」とは性別に関連する攻撃的な言葉によるコメント、性別に関する自己認識や表現、年齢、性的指向、障害、身体的特徴、体の大きさ、人種、民族、国籍、宗教、公共の場での性的な表現、意図的な脅迫、ストーキング、付きまとい、合理的な合意に反した写真やオーディオビジュアル、会話やイベントに継続的な混乱をもたらす事、不適切な身体接触、歓迎できない様な性的な注視、を含んでいます。
+参加者はいかなるハラスメントについても行わない様に、直ちにこの行動規範に遵守する事を求められます。
+このイベントで作成されたシステムは等しく反ハラスメントポリシーに則っている事を、当イベントでは明記しています。
+スポンサーとパートナーもまた、反ハラスメントポリシーに従います。特にスポンサーは性的に表現されたイメージ、活動その他のものを使いません。
+ボランティアを含むスポンサーの代表者は、性的な衣服、ユニフォーム、コスチュームその他の環境を使いません。
 
-↓↓未訳↓↓
 > CODE OF CONDUCT:  
 Harassment includes offensive verbal comments related to gender, gender identity and expression,
 age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality,
@@ -339,6 +342,8 @@ Sponsors and partners are also subject to the anti-harassment policy. In particu
 not use sexualized images, activities, or other material. Sponsor representatives (including
 volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a
 sexualized environment.
+
+
 
 > VIDEO TAPING AND STILL PHOTOGRAPHY:  
 By participating in the IBM "Call for Code" Event, you agree to be photographed and videotaped
