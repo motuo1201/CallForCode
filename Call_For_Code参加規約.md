@@ -61,7 +61,7 @@ participate, intellectual property and acceptance of prizes.
 #### コンテストの目的
 
 "The 2018 Call for Code Global Challenge"は、人間の生命、健康、および福祉への破壊的な影響を軽減するために、自然災害を打ち破り、現在の自然災害準備状況を大幅に改善するソリューションを開発することを開発者に求めるコンペです。
-"Call for Code"は、世界の自然災害対策に永続的かつ肯定的かつ重大な影響を及ぼす、効果的で創造的かつ持続可能なアプリケーションを、2018年6月13日から2018年8月31日までの"The 2018 Call for Code Global Challenge"の期間中に構築する事を求めています。
+"Call for Code"は、世界の自然災害対策に永続的かつ肯定的かつ重大な影響を及ぼす、効果的で創造的かつ持続可能なアプリケーションを、2018年6月13日から2018年9月28日までの"The 2018 Call for Code Global Challenge"の期間中に構築する事を求めています。
 
 > CONTEST OBJECTIVE:  
 The 2018 Call for Code Global Challenge is a competition that asks developers to outthink natural disasters
@@ -75,7 +75,7 @@ positive, and significant impact on world natural disaster preparedness.
 あなたのチームの試作品およびイベントに関連して提出されたその他の資料は、ここではチームの「Submission」と呼ばれます。提出には、コード、プロジェクトエントリー情報、チーム参加者情報、デモンストレーションビデオ、およびドキュメンテーションが含まれる場合があります。
 プロジェクトの提出方法やプロトタイプのコードをチェックする方法について説明します。チームごとに1つのプロジェクト提出を実施します。優勝チームは、イベント後のある時点で、または勝者が発表される直前にコードレビューの対象となることがあります。あなたのチームは、「Hackathon Period」(2018年6月18日から2018年8月31日まで)の終了前にプロトタイプを完成させる必要があります。
 
-> SUBMISSION:  
+> SUBMISSION:
 Your team’s prototype and any other materials submitted in connection with the Event will be
 referred to herein as your team’s “Submission”. Submissions may include code, project entry
 information, team participant information, demonstration videos, and documentation. Instructions
@@ -83,7 +83,7 @@ will be provided on how to submit your project and/or check in the code for your
 will enforce one project Submission per team. Winning teams may be subject to a code review at
 some point following the event or immediately before the winners are announced. Your team must
 complete its prototype before the end of the “Hackathon Period,” running from June 18th, 2018 to
-August 31st, 2018.
+September 28th, 2018. 
 
 #### 知的財産
 参加者は、コンテスト中に作成した提出物の権利を所有しています。提出物に使用されている基礎的な技術はその技術のライセンス条項に従うものとします。あなたのチームはプロトタイプを作成するかもしれません。第三者が所有するデータおよび/またはAPIまたはその他の著作権で保護された素材を使用すること。これは、お客様またはチームメイトが、第三者が所有または所有するテクノロジーを使用することを意味する可能性があります。「技術」は、コンテンツ（絵画、オーディオおよびオーディオビジュアルのコンテンツを含む）、コード、仕様、技術情報、アルゴリズム、イメージ、デザイン、アート、音楽、グラフィックス、SFX、データ、およびその他の情報または資料知的財産権によって保護されています。あなたとあなたのチームは、提出物の一部に技術の継続的な使用に適用される支払条件またはその他の使用条件を含む場合、サードパーティ技術として使用されるライセンスの条件を遵守しなければなりません。このハッカソンに参加する事で、あなたは専売権付のソフトウェア、API、スポンサーや関連会社、パートナーまたはライセンス所有者が所有する、著作権のある素材(画像、オーディオ、ビデオ、オーディオビジュアルコンテンツを含む)（以下「素材」といいます）へのアクセスを受け入れることになります。あなたは、技術の継続的な使用に適用される支払条件またはその他の使用条件を含む、スポンサー資料に関連するすべての使用条件を遵守しなければなりません。スポンサーがあなたのチームが本項の条件に違反したと信じる理由があれば、チームは失格となります。この条項の要件を満たしているかどうか疑問がある場合は、適切な顧問または弁護士に相談してください。その技術が本段落の要件を満たしていることを条件として、あなたのチームは、プロトタイプに関連して使用する予定の、事前に開発された、またはライセンスされたテクノロジーをハッカソンで使うことができます。エントリーの条件として、あなたは本イベントに提出された提出物の全部または一部について、以下のことをスポンサーとパートナーに許可します。
