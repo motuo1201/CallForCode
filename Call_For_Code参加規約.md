@@ -73,9 +73,9 @@ positive, and significant impact on world natural disaster preparedness.
 
 #### 提出
 あなたのチームの試作品およびイベントに関連して提出されたその他の資料は、ここではチームの「Submission」と呼ばれます。提出には、コード、プロジェクトエントリー情報、チーム参加者情報、デモンストレーションビデオ、およびドキュメンテーションが含まれる場合があります。
-プロジェクトの提出方法やプロトタイプのコードをチェックする方法について説明します。チームごとに1つのプロジェクト提出を実施します。優勝チームは、イベント後のある時点で、または勝者が発表される直前にコードレビューの対象となることがあります。あなたのチームは、「Hackathon Period」(2018年6月18日から2018年8月31日まで)の終了前にプロトタイプを完成させる必要があります。
+プロジェクトの提出方法やプロトタイプのコードをチェックする方法について説明します。チームごとに1つのプロジェクト提出を実施します。優勝チームは、イベント後のある時点で、または勝者が発表される直前にコードレビューの対象となることがあります。あなたのチームは、「Hackathon Period」(2018年6月18日から2018年9月28日まで)の終了前にプロトタイプを完成させる必要があります。
 
-> SUBMISSION:
+> SUBMISSION: 
 Your team’s prototype and any other materials submitted in connection with the Event will be
 referred to herein as your team’s “Submission”. Submissions may include code, project entry
 information, team participant information, demonstration videos, and documentation. Instructions
